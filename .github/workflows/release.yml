@@ -1,0 +1,57 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Existing tag to build a release for (e.g. v1.0.0)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    env:
+      RELEASE_TAG: ${{ github.event.inputs.tag || github.ref_name }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.RELEASE_TAG }}
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build installers
+        run: npx --yes @tauri-apps/cli@2 build
+
+      - name: Collect artifacts
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force dist | Out-Null
+          Copy-Item target/release/bundle/nsis/*.exe dist/
+          Copy-Item target/release/bundle/msi/*.msi dist/
+          Copy-Item target/release/frame-studio-dock.exe "dist/FrameStudio-$env:RELEASE_TAG-portable.exe"
+          Get-ChildItem dist
+
+      - name: Publish GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.RELEASE_TAG }}
+          name: Frame Studio ${{ env.RELEASE_TAG }}
+          generate_release_notes: true
+          body: |
+            ## Downloads (Windows)
+            - **`*-setup.exe`** — recommended installer
+            - **`*.msi`** — installer for managed / IT deployments
+            - **`*-portable.exe`** — run without installing (requires the WebView2 runtime, included with Windows 10/11)
+          files: dist/*

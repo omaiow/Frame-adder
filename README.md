@@ -18,6 +18,19 @@ cargo build --release
 
 The launcher builds the updated app at `target-tauri\release\frame-studio-dock.exe`, separately from the earlier `frame-studio.exe` so an already-open older version won't lock the updated executable. The preview is constrained to the selected frame's aspect ratio and fits the available canvas; the preview output is normalized to the frame dimensions for every fit mode.
 
+## Releases
+
+Download the latest installer from the [Releases page](https://github.com/omaiow/Frame-adder/releases).
+
+To publish a new release, bump `version` in `Cargo.toml` and `tauri.conf.json`, commit, then push a matching tag:
+
+```powershell
+git tag v1.0.1
+git push origin v1.0.1
+```
+
+GitHub Actions (`.github/workflows/release.yml`) builds the NSIS installer, MSI, and a portable `.exe`, and attaches them to a release for that tag.
+
 ## Workflow
 
 1. Choose a transparent frame image. The transparent opening is detected automatically; enable manual opening controls to adjust it.
