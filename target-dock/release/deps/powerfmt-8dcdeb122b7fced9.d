@@ -1,0 +1,11 @@
+D:\lasingero\Frame adder\.\target-dock\release\deps\powerfmt-8dcdeb122b7fced9.d: C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\lib.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\buf.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\ext.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\smart_display.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\smart_display_impls.rs
+
+D:\lasingero\Frame adder\.\target-dock\release\deps\libpowerfmt-8dcdeb122b7fced9.rlib: C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\lib.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\buf.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\ext.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\smart_display.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\smart_display_impls.rs
+
+D:\lasingero\Frame adder\.\target-dock\release\deps\libpowerfmt-8dcdeb122b7fced9.rmeta: C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\lib.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\buf.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\ext.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\smart_display.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\smart_display_impls.rs
+
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\lib.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\buf.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\ext.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\smart_display.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.1\src\smart_display_impls.rs:

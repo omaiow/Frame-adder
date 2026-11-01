@@ -1,0 +1,10 @@
+D:\lasingero\Frame adder\.\target-dock\release\deps\toml_datetime-bcb9b8643ee83b5a.d: C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\lib.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\datetime.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\de.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\ser.rs
+
+D:\lasingero\Frame adder\.\target-dock\release\deps\libtoml_datetime-bcb9b8643ee83b5a.rlib: C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\lib.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\datetime.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\de.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\ser.rs
+
+D:\lasingero\Frame adder\.\target-dock\release\deps\libtoml_datetime-bcb9b8643ee83b5a.rmeta: C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\lib.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\datetime.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\de.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\ser.rs
+
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\lib.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\datetime.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\de.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\ser.rs:

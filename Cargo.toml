@@ -1,0 +1,22 @@
+[package]
+name = "frame-studio"
+version = "1.0.0"
+edition = "2021"
+default-run = "frame-studio-dock"
+
+[[bin]]
+name = "frame-studio-dock"
+path = "src/main.rs"
+
+[dependencies]
+image = { version = "0.25", default-features = false, features = ["bmp", "jpeg", "png", "tiff", "webp"] }
+kamadak-exif = "0.6"
+rfd = "0.15"
+webp = "0.3"
+walkdir = "2"
+base64 = "0.22"
+serde = { version = "1", features = ["derive"] }
+tauri = { version = "2" }
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }

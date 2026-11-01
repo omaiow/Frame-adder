@@ -1,0 +1,11 @@
+D:\lasingero\Frame adder\.\target-dock\release\deps\string_cache-782c0ede56cf48d1.d: C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\lib.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\atom.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\dynamic_set.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\static_sets.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\trivial_impls.rs
+
+D:\lasingero\Frame adder\.\target-dock\release\deps\libstring_cache-782c0ede56cf48d1.rlib: C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\lib.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\atom.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\dynamic_set.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\static_sets.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\trivial_impls.rs
+
+D:\lasingero\Frame adder\.\target-dock\release\deps\libstring_cache-782c0ede56cf48d1.rmeta: C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\lib.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\atom.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\dynamic_set.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\static_sets.rs C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\trivial_impls.rs
+
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\lib.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\atom.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\dynamic_set.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\static_sets.rs:
+C:\Users\Atoy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache-0.9.0\src\trivial_impls.rs:

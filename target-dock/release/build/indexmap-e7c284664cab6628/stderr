@@ -1,0 +1,16 @@
+error: only metadata stub found for `rlib` dependency `core` please provide path to the corresponding .rmeta file with full metadata
+
+error: cannot resolve a prelude import
+
+error[E0463]: can't find crate for `std`
+ --> <anon>:1:1
+  |
+1 | extern crate std as probe;
+  | ^^^^^^^^^^^^^^^^^^^^^^^^^^ can't find crate
+  |
+  = note: the `x86_64-pc-windows-msvc` target may not be installed
+  = help: consider downloading the target with `rustup target add x86_64-pc-windows-msvc`
+
+error: aborting due to 3 previous errors
+
+For more information about this error, try `rustc --explain E0463`.
